@@ -1,0 +1,15 @@
+.gradle
+.idea
+*.iml
+*.iws
+target
+build
+/meta/
+
+#gitbook
+/_book
+/node_modules
+
+# IntelliJ
+out/
+.DS_STORE
